@@ -1,0 +1,9 @@
+{
+    "name": "Template",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/EliteMasterEric/Template",
+    "description": "A template for a Lethal Company mod.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
